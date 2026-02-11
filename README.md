@@ -1,0 +1,2 @@
+# Customer-Segmentation-using-Clustering-Algorithms
+Customer Segmentation using Clustering Algorithms is a machine learning project that groups customers based on similar characteristics like age, income, and spending behavior. It uses clustering techniques such as K-Means to identify patterns in customer data. This helps businesses understand customer types and create better marketing strategies.
