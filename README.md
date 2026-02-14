@@ -1,16 +1,16 @@
-Customer-Segmentation-using-Clustering-Algorithms
+# Customer-Segmentation-using-Clustering-Algorithms
 
-Project Overview:
+### Project Overview:
 
 → Customer Segmentation using Clustering Algorithms is a machine learning project that groups customers based on similar characteristics like age, income, and spending behavior. It uses clustering techniques such as K-Means to identify patterns in customer data. This helps businesses understand customer types and create better marketing strategies.
 
 → Customer Segmentation is the process of dividing customers into different groups based on similarities like age, income, and spending behavior. This project uses clustering algorithms to group customers for better business understanding.
 
-Objective:
+### Objective:
 
 → The main objective of this project is to segment customers into different clusters using machine learning techniques.
 
-Technologies Used:
+### Technologies Used:
 
 →  Python
 
@@ -24,24 +24,28 @@ Technologies Used:
 
 →  Streamlit
 
-Algorithm Used:
+### Algorithm Used:
 
 →  K-Means Clustering
 
-How to Run the Project:
+### How to Run the Project:
 
-1. Install required libraries:
+##### 1. Install required libraries:
+
    pip install pandas numpy matplotlib scikit-learn streamlit
    
 
-2. Run the Streamlit app:
+##### 2. Run the Streamlit app:
+ 
  streamlit run app.py
+
+ ##### 3. LINKS
 
 streamlit link : https://customer-segmentation-using-clustering-algorithms-akshi28.streamlit.app/
 
 Github link : https://github.com/akshi281/Customer-Segmentation-using-Clustering-Algorithms
 
-Project Structure:
+### Project Structure:
 
 →  app.py - Main Streamlit application
 
@@ -49,9 +53,10 @@ Project Structure:
 
 →  README.md - Project documentation
 
-Output:
-The model groups customers into different clusters and visualizes them using graphs.
+### Output:
 
-Author:
+→ The model groups customers into different clusters and visualizes them using graphs.
+
+### Author:
 
 Guduru Akshitha Reddy
