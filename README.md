@@ -25,18 +25,21 @@ Technologies Used:
 →  Streamlit
 
 Algorithm Used:
+
 →  K-Means Clustering
 
 How to Run the Project:
 
 1. Install required libraries:
-
    pip install pandas numpy matplotlib scikit-learn streamlit
    
 
 2. Run the Streamlit app:
-
  streamlit run app.py
+
+streamlit link : https://customer-segmentation-using-clustering-algorithms-akshi28.streamlit.app/
+
+Github link : https://github.com/akshi281/Customer-Segmentation-using-Clustering-Algorithms
 
 Project Structure:
 
@@ -49,5 +52,6 @@ Project Structure:
 Output:
 The model groups customers into different clusters and visualizes them using graphs.
 
-## 👩‍💻 Author
+Author:
+
 Guduru Akshitha Reddy
